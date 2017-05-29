@@ -1,2 +1,3 @@
-for i in range(10):
+n = input()
+for i in range(n):
 	print(i)
